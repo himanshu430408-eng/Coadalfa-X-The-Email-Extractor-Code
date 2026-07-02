@@ -1,0 +1,10 @@
+Hey team, here is the contact list for the upcoming project. 
+
+Please reach out to John at john.doe@example.com for marketing questions. 
+For technical issues, contact tech-support123@company.org.
+
+Note: Do not send emails to fake@email...com because that formatting is broken.
+We also have an administrative contact: admin@global.net.
+
+Update: John's email is john.doe@example.com (testing duplicate removal!).
+Let me know if you have any questions.
