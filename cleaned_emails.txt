@@ -1,0 +1,6 @@
+Found 4 Unique Email Addresses:
+===================================
+admin@global.net
+fake@email...com
+john.doe@example.com
+tech-support123@company.org
